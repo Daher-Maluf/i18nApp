@@ -1,0 +1,10 @@
+{
+    "NAV": {
+      "HOME": "Inicio",
+      "ENGLISH": "Inglés",
+      "SPANISH": "Español"
+    },
+    "TITLE": "Bienvenido a Angular con Transloco",
+    "GREETING": "Hola, ¿cómo estás?",
+    "CURRENT_LANG": "Idioma actual"
+  }
